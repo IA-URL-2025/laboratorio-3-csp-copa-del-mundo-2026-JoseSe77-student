@@ -50,3 +50,6 @@ pytest -v
 ```
 
 Cada vez que hagas un *push* a tu repositorio en GitHub, las pruebas se ejecutarán automáticamente en GitHub Actions para autocalificar tu entrega.
+
+
+
